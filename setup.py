@@ -34,7 +34,7 @@ setup(
         "Topic :: Scientific/Engineering :: Physics",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
-        "Programming Language :: Python3"
+        "Programming Language :: Python :: 3"
     ],
     ext_modules=[prosail_fortran_lib]
 )
