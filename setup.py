@@ -25,7 +25,7 @@ prosail_fortran_lib = Extension(
 setup(
     name='pyprosail',
     packages=['pyprosail'],
-    version='1.0.2',
+    version='1.1.0',
     author='Robin Wilson',
     classifiers=[
         "Development Status :: 5 - Production/Stable",
